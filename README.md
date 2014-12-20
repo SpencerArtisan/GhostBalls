@@ -2,3 +2,8 @@ GhostBalls
 ==========
 
 Prototype for a graphical kids' groovy IDE and player 
+
+Phil - I suggest two directories - one for the ide and one for the player.  I'll chuck my stuff in the ide folder.
+
+How should we communicate?  Emails, this README, or the github wiki?
+
