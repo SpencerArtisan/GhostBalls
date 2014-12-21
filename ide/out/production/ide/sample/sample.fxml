@@ -16,10 +16,8 @@
         <items>
           <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
                <children>
-                  <TextArea fx:id="codeTextArea" prefHeight="615.0" prefWidth="321.0" promptText="Enter your code here" wrapText="true" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
-                     <font>
-                        <Font name="Lucida Console" size="13.0" />
-                     </font>
+                  <TextArea fx:id="codeTextArea" prefHeight="615.0" prefWidth="321.0"  AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+
                   </TextArea>
                   <Button fx:id="runButton" layoutX="292.0" layoutY="7.0" mnemonicParsing="false" onAction="#runCode" prefHeight="26.0" prefWidth="62.0" text="Run" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0" />
                </children>
