@@ -1,5 +1,6 @@
 package sample;
 
+import groovy.lang.GroovyClassLoader;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.scene.control.TextArea;
@@ -11,7 +12,8 @@ public class Controller {
     private Main mainApp;
 
     public void runCode(ActionEvent event) {
-        System.out.println(codeTextArea.getText());
+        String code = codeTextArea.getText();
+        System.out.println(code);
     }
 
     public void setMainApp(Main mainApp) {

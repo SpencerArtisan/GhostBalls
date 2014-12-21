@@ -7,6 +7,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="groovy-2.4.0-beta-4" level="project" />
+    <orderEntry type="library" name="Busl" level="project" />
   </component>
 </module>
 
