@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ide (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/libs/ide.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

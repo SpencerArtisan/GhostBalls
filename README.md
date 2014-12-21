@@ -15,4 +15,10 @@ cd ide
 ./gradlew run
 ```
 
+To build installer
+```
+cd ide
+./gradlew assemble
+```
+
 
