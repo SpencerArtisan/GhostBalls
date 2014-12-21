@@ -7,3 +7,10 @@ Phil - I suggest two directories - one for the ide and one for the player.  I'll
 
 How should we communicate?  Emails, this README, or the github wiki?
 
+IDE
+---
+To run
+cd ide
+./gradlew run
+
+
