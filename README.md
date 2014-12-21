@@ -10,7 +10,9 @@ How should we communicate?  Emails, this README, or the github wiki?
 IDE
 ---
 To run
+~~
 cd ide
 ./gradlew run
+~~
 
 
